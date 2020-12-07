@@ -1,0 +1,14 @@
+{
+  "name": "escii",
+  "version": "1.0.0",
+  "description": "Web service for the European Standard Code for Information Interchange",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "",
+  "license": "EUPL-1.2",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
